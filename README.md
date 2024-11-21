@@ -7,7 +7,7 @@
 
 Skills
 - 🛠️ Feature Engineering
-- 📊 CRM Analytics 
+- 📊 CRM Analytics ( RFM - CLTV - CLTV Prediction ( BG-NBD, GAMMA GAMMA ) )
 - 📏 Measurement Problems 
 - 📂 SQL 
 - 🤖 Machine Learning 
