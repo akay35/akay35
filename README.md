@@ -6,11 +6,12 @@
 
 
 Skills
-- 🛠️ Feature Engineering
 - 📊 CRM Analytics ( RFM - CLTV - CLTV Prediction ( BG-NBD, GAMMA GAMMA ) )
 - 📏 Measurement Problems ( Rating Products, Sorting Products, Sorting Reviews, A/B Testing, Statical Hypothesis )
-- 📂 SQL 
+- 🔍 Recommendation Systems
+- 🛠️ Feature Engineering 
 - 🤖 Machine Learning 
+- 📂 SQL 
 and
 - 🖥️ Programming Languages: Proficient in CCS C, C++, and embedded systems programming. 
 - 💡 Microcontroller Programming: Experienced in programming PIC and ESP32 microcontrollers. 
